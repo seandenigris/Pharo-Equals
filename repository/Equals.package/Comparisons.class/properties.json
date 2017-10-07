@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Fruit",
+	"super" : "Object",
 	"category" : "Equals-Examples",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "Banana",
+	"name" : "Comparisons",
 	"type" : "normal"
 }

@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Fruit",
-	"category" : "Equals-Example",
+	"category" : "Equals-Examples",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

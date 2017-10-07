@@ -1,0 +1,3 @@
+*Equals
+allInstVarNamesForEqualityComparison
+	^self superclass allInstVarNamesForEqualityComparison, self instVarNamesForEqualityComparison

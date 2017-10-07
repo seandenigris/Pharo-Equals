@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "Equals-Example",
+	"super" : "Comparisons",
+	"category" : "Equals-Examples",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

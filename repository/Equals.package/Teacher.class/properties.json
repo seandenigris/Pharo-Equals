@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Fruit",
+	"super" : "Person",
 	"category" : "Equals-Examples",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Banana",
+	"instvars" : [
+		"experience"
+	],
+	"name" : "Teacher",
 	"type" : "normal"
 }

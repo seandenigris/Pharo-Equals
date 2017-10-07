@@ -2,9 +2,11 @@
 	"instance" : {
 		"beRipe" : "NouryBouraqadi 8/21/2014 11:08",
 		"beRotten" : "NouryBouraqadi 8/21/2014 11:08",
-		"initialize" : "NouryBouraqadi 8/21/2014 11:13",
+		"=" : "",
 		"beUnripe" : "NouryBouraqadi 8/21/2014 11:07",
-		"color" : "NouryBouraqadi 8/21/2014 10:01"
+		"hash" : "",
+		"color" : "NouryBouraqadi 8/21/2014 10:01",
+		"initialize" : "NouryBouraqadi 8/21/2014 11:13"
 	},
 	"class" : { }
 }
