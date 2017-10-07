@@ -1,0 +1,3 @@
+staging
+beRotten
+	stage := #rotten

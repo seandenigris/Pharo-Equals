@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"stage"
+	],
+	"name" : "Fruit",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Equals-Example"
+}
