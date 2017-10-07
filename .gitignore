@@ -16,3 +16,6 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+
+# Mac System
+.DS_Store

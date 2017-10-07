@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"tearDown" : "NouryBouraqadi 2/4/2011 19:41",
+		"testSetContainsTwoInstancesOfTwoDiffrentClassesWithNoIVs" : "NouryBouraqadi 2/5/2011 09:32",
+		"testSetContainsTwoInstancesOfTwoDiffrentClassesWithIVs" : "NouryBouraqadi 2/5/2011 09:32",
+		"testTwoInstancesOfTowDifferentClassesWithNoIVsAreNOTEqual" : "NouryBouraqadi 2/5/2011 09:32",
+		"testSetContainsOnlyOneInstanceOfAClassWithIVs" : "NouryBouraqadi 2/5/2011 09:32",
+		"testTwoInstancesOfTheSameClassWithSameIvValuessAreEqual" : "NouryBouraqadi 2/5/2011 09:32",
+		"testTwoInstancesOfTheSameClassWithNoIVsAreEqual" : "NouryBouraqadi 2/5/2011 09:32",
+		"testTwoInstancesOfTheSameClassWithDifferentIvValuessAreNOTEqual" : "NouryBouraqadi 2/5/2011 09:32",
+		"testSetContainsOnlyOneInstanceOfAClassWithNoIVs" : "NouryBouraqadi 2/5/2011 09:32",
+		"setUp" : "NouryBouraqadi 2/4/2011 19:40"
+	},
+	"class" : { }
+}

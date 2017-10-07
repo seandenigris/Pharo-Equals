@@ -1,0 +1,4 @@
+testing
+testTwoInstancesOfTheSameClassWithNoIVsAreEqual
+	self assert: ComparableObjectForEqualityTest new = ComparableObjectForEqualityTest new
+	

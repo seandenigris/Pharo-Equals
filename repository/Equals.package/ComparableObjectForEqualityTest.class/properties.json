@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ComparableObjectForEqualityTest",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Equals-Test"
+}
